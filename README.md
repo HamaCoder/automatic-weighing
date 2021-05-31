@@ -3,3 +3,4 @@
 Electronic engineering project (Hama). An automatic weighing system using loadcell and classifying products by volume. Combine data transmission to the phone application.
 -----
 CanDienTu.ino ->> Code Arduino UNO R3
+DataSendToFirebase.ino ->> Code ESP32
