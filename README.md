@@ -4,3 +4,4 @@ Electronic engineering project (Hama). An automatic weighing system using loadce
 -----
 CanDienTu.ino ->> Code Arduino UNO R3
 DataSendToFirebase.ino ->> Code ESP32
+DataSendToFirebaseESP8266.ino ->> Code ESP8266
